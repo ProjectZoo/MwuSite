@@ -1,12 +1,12 @@
 body{
-background-color: #fdfdfd;
+background-color: #000000;
 }
 p{
-color: #FF0000;
+color: #ffffff;
 font-size: 1em;
 }
 h1,h2{
-    color: #FF0000;
+    color: #190cd4;
     text-align: center;
 
 }
