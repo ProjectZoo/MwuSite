@@ -1,5 +1,8 @@
 body{
 background-color: #000000;
+
+background-image: url('img_09104542797072.gif');
+
 }
 .menu{
     background-color: rgba(9, 7, 6, 0.8);
@@ -35,3 +38,21 @@ figure{
                 .img_corpo{
                     width: 60%;
                 }
+a:link {
+     color: #FFDEAD;
+ }
+                  
+    /* visited link */
+a:visited {
+   color:#FFDEAD;
+}
+                  
+    /* mouse over link */
+a:hover {
+    color:#FF8C00;
+}
+footer{
+    background-color: rgba(9, 7, 6, 0.3);
+    padding: 2%;
+  }
+                
