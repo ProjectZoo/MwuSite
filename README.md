@@ -1,2 +1,2 @@
 # MwuSite
-https://projectzoo.github.io/MwuSite/
+https://projectzoo.github.io/Mwe/
