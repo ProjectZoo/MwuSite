@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background-color:	#000000;
+  background-color:	#000000;
 
 }
 
@@ -22,7 +22,7 @@ body{
 }
 
 .itens_Menu a:visited, .itens_Menu a:link{
-  color: #0044ff;
+  color: #fbff00;
   text-decoration: none;
   font-weight: bolder;
 
@@ -44,7 +44,7 @@ h1{
 }
 
 p{
-  color: #ffae00;  
+  color: #FFD700;  
   font-size: 1.5em;
   line-height: 1.3;
   text-align: justify;
@@ -56,6 +56,7 @@ p{
 h1,h2{
     color: #0044ff;
     text-align: center;
+    margin-top: 2%;
     margin-bottom: 2%;
 }
 
@@ -78,7 +79,7 @@ figure{
 }
 
 #mais a:link, #mais a:visited {
-  color: #FFDEAD;
+  color: #adf3ff;
 }
 
 #mais a:hover{
@@ -86,7 +87,7 @@ figure{
 }
 
 footer{
-    background-color: rgba(9, 7, 6, 0.3);
+    background-color: rgba(22, 67, 214, 0.795);
     padding: 2%;
     margin-top: 2%;
 }
@@ -101,16 +102,16 @@ footer p {
   width: 100px;
   height: 30px;
   padding: 2%;
-  background-color: rgba(9, 7, 6, 0.3);
+  background-color: rgba(#696969);
   margin: auto;
 }
 
 .botao:hover{
-  background-color:#FFDEAD;
+  background-color:#A9A9A9;
 }
 
 .botao a:link, .botao a:visited{
-  color:#8B4513;
+  color:#1f138b;
   text-decoration: none;
   font-weight: bolder;
 }
@@ -129,7 +130,7 @@ section{
   margin-left: 2%;
   margin-top: 2%;
   margin-bottom: 2%;
-  width: 40%;
+  width: 35%;
 }
 
 .esquerda{
